@@ -1,0 +1,46 @@
+div {background-color:rgb(255, 255, 255,0.8);
+     width: 1000px;
+     height: 570px;
+     border-radius: 20px;
+     margin-bottom: 0px;
+     }
+body{background-image:url(https://www.hdwallpapers.in/download/hanging_roots_from_green_trees_in_jungle_hd_jungle-HD.jpgs);
+      background-repeat:no-repeat;
+      background-position: center;
+      background-size:cover;
+      margin: 0px;
+      
+      
+header{background-color:rgb(24, 128, 24);
+       color: white;
+       text-align: center;
+       padding: 10px;
+       width: 100%;
+       position: relative;
+       
+}
+
+footer{background-color:rgb(24, 128, 24);
+       color: white;
+       text-align: center;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       width: 100%;
+       position: relative;}
+
+a {width: 400px;
+       padding: 10px;
+       background-color: rgb(3, 138, 12);
+       opacity: 1;
+       text-decoration: none;
+       border-color: aquamarine;
+       border-width: 10px;
+       border-radius: 20px;
+       color:aliceblue;
+       margin: 2px
+       
+       }
+
+nav a {padding: 10px;
+       color:azure;
+       text-decoration: none;}}
